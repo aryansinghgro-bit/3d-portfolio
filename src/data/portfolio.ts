@@ -99,7 +99,7 @@ export const projects = [
       "Tailwind CSS",
     ],
     image: "/images/projects/3d-portfolio.png",
-    live: "#",
+    live: "https://aryan3dportfolio.netlify.app/",
     github: "https://github.com/aryansinghgro-bit/3d-portfolio",
     featured: true,
   },
