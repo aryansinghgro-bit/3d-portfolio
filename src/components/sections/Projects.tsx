@@ -336,10 +336,10 @@ export function Projects() {
                       </div>
 
                       <div className="mt-6 flex items-center gap-3">
-                        <ActionLink href={project.live} variant="primary" size="sm">
+                        <a href={project.live} variant="primary" size="sm">
                           View project
                           <ArrowUpRight className="size-4" />
-                        </ActionLink>
+                        </a>
                       </div>
                     </div>
                   </div>

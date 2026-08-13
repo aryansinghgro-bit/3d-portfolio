@@ -82,7 +82,7 @@ export const projects = [
       "Machine Learning",
     ],
     image: "/images/projects/fake-news.png",
-    live: "#",
+    live: "https://fakenewsdetectionsyst.netlify.app/",
     github: "https://github.com/aryansinghgro-bit/fake-news-detection-",
     featured: true,
   },
@@ -101,7 +101,7 @@ export const projects = [
     image: "/images/projects/3d-portfolio.png",
     live: "#",
     github: "https://github.com/aryansinghgro-bit/3d-portfolio",
-    featured: false,
+    featured: true,
   },
 ];
 export const expertise = [
